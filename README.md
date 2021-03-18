@@ -11,21 +11,21 @@ Any new tables or records that we add into the database will be removed after yo
 ## Table - person
 
 ### Instructions
-1. Create a table called person that records a person's id, name, age, height ( in cm ), city, favorite_color. 
+<!-- 1. Create a table called person that records a person's id, name, age, height ( in cm ), city, favorite_color.  -->
     * id should be an auto-incrementing id/primary key - Use type: SERIAL
-2. Add 5 different people into the person database. 
+<!-- 2. Add 5 different people into the person database.  -->
     * Remember to not include the person_id because it should auto-increment.
-3. List all the people in the person table by height from tallest to shortest.
-4. List all the people in the person table by height from shortest to tallest.
-5. List all the people in the person table by age from oldest to youngest.
-6. List all the people in the person table older than age 20.
-7. List all the people in the person table that are exactly 18.
-8. List all the people in the person table that are less than 20 and older than 30.
-9. List all the people in the person table that are not 27 (Use not equals).
-10. List all the people in the person table where their favorite color is not red.
-11. List all the people in the person table where their favorite color is not red and is not blue.
-12. List all the people in the person table where their favorite color is orange or green.
-13. List all the people in the person table where their favorite color is orange, green or blue (use IN).
+<!-- 3. List all the people in the person table by height from tallest to shortest. -->
+<!-- 4. List all the people in the person table by height from shortest to tallest. -->
+<!-- 5. List all the people in the person table by age from oldest to youngest. -->
+<!-- 6. List all the people in the person table older than age 20. -->
+<!-- 7. List all the people in the person table that are exactly 18. -->
+<!-- 8. List all the people in the person table that are less than 20 and older than 30. -->
+<!-- 9. List all the people in the person table that are not 27 (Use not equals). -->
+<!-- 10. List all the people in the person table where their favorite color is not red. -->
+<!-- 11. List all the people in the person table where their favorite color is not red and is not blue. -->
+<!-- 12. List all the people in the person table where their favorite color is orange or green. -->
+<!-- 13. List all the people in the person table where their favorite color is orange, green or blue (use IN). -->
 14. List all the people in the person table where their favorite color is yellow or purple (use IN).
 
 ### Solution
